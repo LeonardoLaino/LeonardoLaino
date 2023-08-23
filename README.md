@@ -1,5 +1,3 @@
-![image](https://github.com/LeonardoLaino/LeonardoLaino/assets/82972042/2dd163a8-1c71-42d8-bb35-5393d20ee1ec)
-
 ### `Sobre o Autor`
 ---
 Aqui você encontrará minha jornada de estudos em data analytics, onde almejo mudar de carreira para a área de ciência de dados!
