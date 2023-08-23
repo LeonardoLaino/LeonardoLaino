@@ -1,4 +1,4 @@
-### <font color= yellow>|</font>`Sobre o Autor`
+### `Sobre o Autor`
 ---
 Aqui você encontrará minha jornada de estudos em data analytics, onde almejo mudar de carreira para a área de ciência de dados!
 
